@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://hugo-five-nu.vercel.app/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Obed's Tech blog"
 theme = "ananke"
